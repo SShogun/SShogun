@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshogun&label=Profile%20views&color=0e75b6&style=flat" alt="sshogun" /> </p>
 
-- 🔭 I’m currently working on **Phoelix**
+- 🔭 I’m currently working on **Todo App**
 
 - 🌱 I’m currently learning **Javascript, C, C++**
 
