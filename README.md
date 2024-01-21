@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshogun&label=Profile%20views&color=0e75b6&style=flat" alt="sshogun" /> </p>
 
-- 🔭 I’m currently working on **Quotor & Weatheroo**
+- 🔭 I’m currently working on **Weatheroo**
 
-- 🌱 I’m currently learning **Javascript, C, C++**
+- 🌱 I’m currently learning **Typescript & React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SShogun](https://github.com/SShogun)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS & JS**
 
 - 📫 How to reach me **sohamshirke.215099@gmail.com**
 
