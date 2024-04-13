@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Typescript, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SShogun](https://github.com/SShogun)
+- 👨‍💻 All of my projects are available at [https://github.com/SShogun](https://github.com/SShogun?tab=repositories)
 
 - 📝 I semi-regularly write articles on [https://twitter.com/SShogunCodes](https://twitter.com/SShogunCodes)
 
