@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sshoguncodes" target="blank"><img src="https://img.shields.io/twitter/follow/sshoguncodes?logo=twitter&style=for-the-badge" alt="sshoguncodes" /></a> </p>
 
-- 🔭 I’m currently working on Nothing lol
+- 🔭 I’m currently working on <strong>Apex Autos</strong>
 
 - 🌱 I’m currently learning **Typescript, React**
 
