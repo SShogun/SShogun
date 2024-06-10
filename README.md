@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Typescript, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SShogun](https://github.com/SShogun?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/SShogun?tab=repositories](https://github.com/SShogun?tab=repositories)
 
 - 📝 I semi-regularly write articles on [https://twitter.com/SShogunCodes](https://twitter.com/SShogunCodes)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sohamshirke.215099@gmail.com**
 
-- ⚡ Fun fact **I'm**
+- ⚡ Fun fact **I'm just a student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
