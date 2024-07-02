@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sshoguncodes" target="blank"><img src="https://img.shields.io/twitter/follow/sshoguncodes?logo=twitter&style=for-the-badge" alt="sshoguncodes" /></a> </p>
 
-- 🔭 I’m currently working on <strong>Apex Autos</strong>
+- 🔭 I’m currently working on <strong>BestCart</strong>
 
-- 🌱 I’m currently learning **Typescript, React**
+- 🌱 I’m currently learning **React & Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SShogun?tab=repositories](https://github.com/SShogun?tab=repositories)
 
@@ -18,8 +18,6 @@
 - 💬 Ask me about **HTML, CSS, JS,**
 
 - 📫 How to reach me **sohamshirke.215099@gmail.com**
-
-- ⚡ Fun fact **I'm just a student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
