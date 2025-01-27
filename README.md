@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sshoguncodes" target="blank"><img src="https://img.shields.io/twitter/follow/sshoguncodes?logo=twitter&style=for-the-badge" alt="sshoguncodes" /></a> </p>
 
-- 🔭 I’m currently working on <strong>Inkstone</strong>
+- 🔭 I’m currently working on <strong>Stoor</strong>
 
-- 🌱 I’m currently learning **Django & PostgreSQL**
+- 🌱 I’m currently learning **Django, Django Rest Framework & React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SShogun?tab=repositories](https://github.com/SShogun?tab=repositories)
 
